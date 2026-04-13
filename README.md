@@ -1,4 +1,4 @@
-**This repo is based on 'Gaussian-Flow'  **
+**This repo is based on 'Gaussian-Flow'**
 Paper : https://arxiv.org/abs/2312.03431  
 Github : https://github.com/NJU-3DV/Gaussian-Flow  
 
