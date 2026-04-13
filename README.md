@@ -10,7 +10,8 @@ python launch.py --config configs/nerfies.yaml
 python launch.py --config configs/dnerf.yaml
 
 
-# **Datasets** : D-NeRF Datasets (https://github.com/albertpumarola/D-NeRF)
+# **Datasets** : D-NeRF Datasets 
+Download D-NeRF Datasets : https://github.com/albertpumarola/D-NeRF
 If you want to use D-NeRF Datasets, use configs/dnerf.yaml file. (Check 'data_path' in it.)
 
 # For runing this repository, you need..
