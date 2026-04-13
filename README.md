@@ -1,5 +1,6 @@
-This repo is based on 'Gaussian-Flow'
-[https://arxiv.org/abs/2312.03431][https://github.com/NJU-3DV/Gaussian-Flow]
+This repo is based on 'Gaussian-Flow'  
+Paper : https://arxiv.org/abs/2312.03431  
+Github : https://github.com/NJU-3DV/Gaussian-Flow  
 
 # What I've changed
 I mainly changed model/point.py file for 'Adaptive K-Loss'.
