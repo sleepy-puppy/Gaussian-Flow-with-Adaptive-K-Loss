@@ -1,4 +1,4 @@
-**This repo is based on 'Gaussian-Flow'**
+**This repo is based on 'Gaussian-Flow'**  
 Paper : https://arxiv.org/abs/2312.03431  
 Github : https://github.com/NJU-3DV/Gaussian-Flow  
 
@@ -14,7 +14,7 @@ python launch.py --config configs/nerfies.yaml
 python launch.py --config configs/dnerf.yaml
 
 
-# **Datasets** : D-NeRF Datasets 
+# Datasets : D-NeRF Datasets 
 Download D-NeRF Datasets : https://github.com/albertpumarola/D-NeRF  
 If you want to use D-NeRF Datasets, use configs/dnerf.yaml file. (Check 'data_path' in it.)
 
