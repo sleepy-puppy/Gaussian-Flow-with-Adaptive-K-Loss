@@ -19,6 +19,6 @@ Download D-NeRF Datasets : https://github.com/albertpumarola/D-NeRF
 If you want to use D-NeRF Datasets, use configs/dnerf.yaml file. (Check 'data_path' in it.)
 
 # For runing this repository, you need..
-datasets  
-pointrix  
+Download datasets & pointrix  
+Make a 'outputs' folder to save the outputs  
 ...
