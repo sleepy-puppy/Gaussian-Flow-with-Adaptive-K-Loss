@@ -1,4 +1,4 @@
-This repo is based on 'Gaussian-Flow'  
+**This repo is based on 'Gaussian-Flow'  **
 Paper : https://arxiv.org/abs/2312.03431  
 Github : https://github.com/NJU-3DV/Gaussian-Flow  
 
@@ -9,7 +9,7 @@ I mainly changed model/point.py file for 'Adaptive K-Loss'.
 # Training
 python launch.py --config configs/nerfies.yaml datapipeline.dataset.data_path='path/to/nerfies/dataset'
 
-# If you ensure 'data_path' in YAML file, then run this code for training
+# If you ensure about 'data_path' in YAML file, then run this code for training
 python launch.py --config configs/nerfies.yaml  
 python launch.py --config configs/dnerf.yaml
 
